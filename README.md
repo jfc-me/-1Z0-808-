@@ -1,5 +1,6 @@
 1Z0-808
 
+#REVISÃO
 
 Estudo Oracle Certified Associate.
 

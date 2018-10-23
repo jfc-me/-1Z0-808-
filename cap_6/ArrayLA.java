@@ -86,7 +86,7 @@ System.out.println(" 1 =:> "+ nh.indexOf("c13"));
 System.out.println(" 2 =:> "+ nh.indexOf("d14"));
 System.out.println(" 3 =:> "+ nh.indexOf("linux"));
 System.out.println(" 4 =:> "+ nh.lastIndexOf("a11"));
-   
+// 
               }
  }
 
